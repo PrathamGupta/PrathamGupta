@@ -4,7 +4,7 @@ A passionate MS in Cybersecurity student at NYU with a knack for making you secu
 </h4>
 
 <p align="center"> 
-<a href="https://linkedin.com/in/prathammguptaa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Pratham Gupta LinkedIn" /></a>
+<a href="https://linkedin.com/in/prathamguptaaa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Pratham Gupta LinkedIn" /></a>
 <a href="mailto:pratham.gupta@nyu.edu" target="blank"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" alt="Pratham Gupta Email" /></a>
 <a href="https://twitter.com/prathammguptaa" target="blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge" alt="Pratham Gupta Twitter" /></a>
 </p>
