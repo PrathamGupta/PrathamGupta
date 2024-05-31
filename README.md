@@ -14,11 +14,11 @@ A passionate MS in Cybersecurity student at NYU with a knack for making you secu
 
 <div style="flex: 100%; padding: 10px;">
 
-- 🌱 I’m currently learning **aaaaaaaaa**
-- 🤝 I’m looking for help with [aaaaaaaaa](aaaaaaaaa)
-- 📝 Ask me about **aaaaaaaaaaa**
-- 📫 How to reach me **aaaaaaaaa**
-- ⚡ Fun fact **aaaaaaaaa**
+- 🌱 I’m currently learning **Penetration Testing and Vulnerability Analysis**
+- 🤝 I’m looking for help with **Cybersecurity Learning**
+- 📝 Ask me about **Security Threats and Gaming**
+- 📫 How to reach me [**Email**](mailto:pratham.gupta@nyu.edu) or [**LinkedIn**](https://linkedin.com/in/prathamguptaaa)
+- ⚡ Fun fact: I can code in six different programming languages and still find time to play League of Legends!
 
 </div>
 
