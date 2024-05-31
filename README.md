@@ -11,29 +11,17 @@ A passionate MS in Cybersecurity student at NYU with a knack for making you secu
 
 
 
-<div style="display: flex;">
 
-<div style="flex: 50%; padding: 10px;">
-
-- 🔭 I’m currently working on [aaaaaaaaa](aaaaaaaaa)
-- 👯 I’m looking to collaborate on [aaaaaaaaa](aaaaaaaaa)
-- 👨‍💻 All of my projects are available at [aaaaaaaaa](aaaaaaaaa)
-- 💬 Ask me about **aaaaaaaaa**
-- 📄 Know about my experiences [aaaaaaaaa](aaaaaaaaa)
-
-</div>
-
-<div style="flex: 50%; padding: 10px;">
+<div style="flex: 100%; padding: 10px;">
 
 - 🌱 I’m currently learning **aaaaaaaaa**
 - 🤝 I’m looking for help with [aaaaaaaaa](aaaaaaaaa)
-- 📝 I regularly write articles on [aaaaaaaaa](aaaaaaaaa)
+- 📝 Ask me about **aaaaaaaaaaa**
 - 📫 How to reach me **aaaaaaaaa**
 - ⚡ Fun fact **aaaaaaaaa**
 
 </div>
 
-</div>
 
 
 
